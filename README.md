@@ -6,6 +6,6 @@ Registration: https://igorsimb-blog-api.herokuapp.com/api/v1/dj-rest-auth/regist
 Swagger docs: https://igorsimb-blog-api.herokuapp.com/api/schema/swagger-ui/
 
 
-Superuser credentials:
+Superuser credentials (can CRUD all posts; regular users - only their own):
 - username: admin
 - password: testing321
